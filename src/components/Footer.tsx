@@ -1,3 +1,4 @@
+// redeploy trigger
 export default function Footer() {
   return (
     <footer className="bg-secondary/80 border-t border-white/5 py-10">
