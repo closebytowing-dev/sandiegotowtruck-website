@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4">
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="text-center md:text-left">
-            <p className="font-bold text-primary text-lg">SD Tow Truck</p>
+            <p className="font-bold text-primary text-lg">San Diego Tow Truck</p>
             <p className="text-gray-500 text-sm mt-1">
               24/7 Towing &amp; Roadside Assistance in San Diego, CA
             </p>
